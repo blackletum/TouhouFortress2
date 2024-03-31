@@ -1,0 +1,19 @@
+map_ents
+{
+	ad_dustbowl2
+	{
+		"item_armor"
+		{
+			"origin"	"-2768 -1776 0"
+			"angles"	"0 90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-6990 -1208 4"
+		}
+		"item_armor"
+		{
+			"origin"	"-6334 1496 260"
+		}
+	}
+}

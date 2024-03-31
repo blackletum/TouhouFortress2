@@ -1,0 +1,18 @@
+map_ents
+{
+	cp_well
+	{
+		"item_armor"
+		{
+			"origin"	"-1542 -2802 -316"
+		}
+		"item_armor"
+		{
+			"origin"	"-1542 3570 -316"
+		}
+		"item_armor"
+		{
+			"origin"	"-1536 388 -474"
+		}
+	}
+}

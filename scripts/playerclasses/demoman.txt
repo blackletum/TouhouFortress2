@@ -1,0 +1,47 @@
+//
+// Team Fortress - Demoman Player Class
+//
+PlayerClass
+{
+	// Attributes.
+	"name"			"demoman"
+	"model"			"models/player/demo.mdl"
+	"model_hwm"		"models/player/hwm/demo.mdl"
+	"localize_name"	"TF_Class_Name_Demoman"
+	"speed_max"		"280"
+	"health_armor_max"		"90"
+	"armor_max"		"120"
+	"armortype"		"2"
+	"health_max"		"175"
+
+	// Grenades.
+	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
+	"grenade2"		"TF_WEAPON_GRENADE_MIRV"
+
+	// Weapons.
+	"weapon1"		"TF_WEAPON_BOTTLE"
+	"weapon2"		"TF_WEAPON_GRENADELAUNCHER"
+	"weapon3"		"TF_WEAPON_PIPEBOMBLAUNCHER"
+	//"weapon4"		"TF_WEAPON_PDA_DEMO"
+
+	// Buildables
+	//"buildable1"	"OBJ_DETPACK"
+	//"buildable2"	"OBJ_DETPACK"
+	//"buildable3"	"OBJ_DETPACK"
+
+
+	AmmoMax
+	{
+		"tf_ammo_primary"	"30"
+		"tf_ammo_secondary"	"40"
+		"tf_ammo_metal"		"100"
+		"tf_ammo_grenades1"	"4"
+		"tf_ammo_grenades2"	"2"
+	}
+
+	// Death Sounds
+	"sound_death"				"Player.Death"
+	"sound_crit_death"				"TFPlayer.CritDeath"
+	"sound_melee_death"			"Player.MeleeDeath"
+	"sound_explosion_death"			"Player.ExplosionDeath"			
+}

@@ -1,0 +1,23 @@
+"Discord"
+{
+
+	//You should try and keep the image and map name constant
+	//since that is the best practice for this
+	//but you can name the image name what ever you want since it's
+	//the name of the image that discord uses to call the image from the app
+	"Maps"
+	{
+		//Map_name  		//Image_name
+		"pf_target"			"pf_target"
+		"tc_hydro"			"tc_hydro"
+		"cp_well"			"cp_well"
+		"cp_granary"		"cp_granary"
+		"cp_powerhouse"		"cp_powerhouse"
+		"ad_dustbowl"		"ad_dustbowl"
+		"ad_dustbowl2"		"ad_dustbowl2"
+		"ad_gravelpit"		"ad_gravelpit"
+		"ctf_2fort"			"ctf_2fort"
+		"ctf_well"			"ctf_well"
+		"ctf_badlands"		"ctf_badlands"
+	}
+}

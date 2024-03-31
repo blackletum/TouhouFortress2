@@ -1,0 +1,28 @@
+map_ents
+{
+	ctf_2fort
+	{
+		//"item_armor"
+		//{
+		//	"origin"	"30 20 30"
+		//}
+		//"item_grenadepack"
+		//{
+		//	"origin"	"0 0 20"
+		//}
+		//"prop_dynamic"
+		//{
+		//	"model"		"models/player/heavy.mdl"
+		//	"origin"	"0 0 50"
+		//	"angles"	"0 90 0"
+		//	"solid"		"2"							// 1 is vphysics, 2 is bounding box
+		//}
+	}
+	pf_target
+	{
+		"item_armor"
+		{
+			"origin"	"-360 -740 -50"
+		}
+	}
+}

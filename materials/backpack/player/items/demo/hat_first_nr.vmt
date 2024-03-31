@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$baseTexture" "backpack/player/items/all_class/thf2_hat_stack_1"
+	"$translucent" 1
+	$vertexcolor 1
+}
+

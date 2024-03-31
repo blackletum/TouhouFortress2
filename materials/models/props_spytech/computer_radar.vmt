@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_spytech/computer_radar"
+	"$surfaceprop"	"no_decal"
+	"$model" "1"
+}

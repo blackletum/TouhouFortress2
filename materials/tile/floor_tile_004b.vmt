@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "Tile/floor_tile_004b"
+	"$bumpmap" "Tile/floor_tile_004b_normal"
+	"%keywords" "tf"
+}

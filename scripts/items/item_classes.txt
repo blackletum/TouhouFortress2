@@ -1,0 +1,782 @@
+"1 TF_WEAPON_BAT"
+{
+	"item_class"		"tf_weapon_bat"
+	"item_type_name"	"#TF_Weapon_Bat"
+	"item_name"			"#TF_Weapon_Bat"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_bat.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_bat_red"
+	"bucket_blue"		"sprites/bucket_bat_blue"
+	"used_by_classes"
+	{
+		"scout"
+		{
+		}
+	}
+}
+"2 TF_WEAPON_BOTTLE"
+{
+	"item_class"		"tf_weapon_bottle"
+	"item_type_name"	"#TF_Weapon_Bottle"
+	"item_name"			"#TF_Weapon_Bottle"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_bottle.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_bottle_red"
+	"bucket_blue"		"sprites/bucket_bottle_blue"
+	"used_by_classes"
+	{
+		"demoman"
+		{
+		}
+	}
+}
+"3 TF_WEAPON_FIREAXE"
+{
+	"item_class"		"tf_weapon_fireaxe"
+	"item_type_name"	"#TF_Weapon_FireAxe"
+	"item_name"			"#TF_Weapon_FireAxe"
+	"item_slot"			"weapon1"
+	"model"				"models/weapons/w_models/w_fireaxe.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_fireaxe"
+	"disabled"			"1"
+	"used_by_classes"
+	{
+		"pyro"
+		{
+		}
+	}
+}
+"4 TF_WEAPON_CLUB"
+{
+	"item_class"		"tf_weapon_club"
+	"item_type_name"	"#TF_Weapon_Club"
+	"item_name"			"#TF_Weapon_Club"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_machete.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_machete"
+	"used_by_classes"
+	{
+		"sniper"
+		{
+		}
+	}
+}
+"5 TF_WEAPON_KNIFE"
+{
+	"item_class"		"tf_weapon_knife"
+	"item_type_name"	"#TF_Weapon_Knife"
+	"item_name"			"#TF_Weapon_Knife"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_knife.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_knife"
+	"used_by_classes"
+	{
+		"spy"
+		{
+		}
+	}
+}
+"6 TF_WEAPON_FISTS"
+{
+	"item_class"		"tf_weapon_fists"
+	"item_type_name"	"#TF_Weapon_Fists"
+	"item_name"			"#TF_Weapon_Fists"
+	"item_slot"			"weapon1"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_fists_red"
+	"bucket_blue"		"sprites/bucket_fists_blue"
+	"disabled"			"1"
+	"used_by_classes"
+	{
+		"heavy"
+		{
+		}
+	}
+}
+"7 TF_WEAPON_SHOVEL"
+{
+	"item_class"		"tf_weapon_shovel"
+	"item_type_name"	"#TF_Weapon_Shovel"
+	"item_name"			"#TF_Weapon_Shovel"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_shovel.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_shovel"
+	"used_by_classes"
+	{
+		"soldier"
+		{
+		}
+	}
+}
+"8 TF_WEAPON_WRENCH"
+{
+	"item_class"		"tf_weapon_wrench"
+	"item_type_name"	"#TF_Weapon_Wrench"
+	"item_name"			"#TF_Weapon_Wrench"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_wrench.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_wrench"
+	"used_by_classes"
+	{
+		"engineer"
+		{
+		}
+	}
+}
+"9 TF_WEAPON_BONESAW"
+{
+	"item_class"		"tf_weapon_bonesaw"
+	"item_type_name"	"#TF_Weapon_Bonesaw"
+	"item_name"			"#TF_Weapon_Bonesaw"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_bonesaw.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_bonesaw"
+	"used_by_classes"
+	{
+		"medic"
+		{
+		}
+	}
+}
+"10 TF_WEAPON_SHOTGUN"
+{
+	"item_class"		"tf_weapon_shotgun_primary"
+	"item_type_name"	"#TF_Weapon_Shotgun"
+	"item_name"			"#TF_Weapon_Shotgun"
+	"item_type"			"weapon"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_shotgun.mdl"
+	"animtype"			"secondary"
+	"bucket"			"sprites/bucket_shotgun"
+	"used_by_classes"
+	{
+		"soldier"
+		{
+			"item_class"	"tf_weapon_shotgun_soldier"
+		}
+		"pyro"
+		{
+			"item_class"	"tf_weapon_shotgun_pyro"
+		}
+		"heavy"
+		{
+			"item_class"	"tf_weapon_shotgun_hwg"
+		}
+		"engineer"
+		{
+			"item_slot"			"3"
+			"animtype"			"primary"
+		}
+		"medic"
+		{
+			"item_class"	"tf_weapon_shotgun_medic"
+			"item_slot"			"3"
+			"animtype"			"primary"
+			"item_description"	"Fear the conc shotgun medic bhopping through your window at 359.127 mph."
+			"disabled"			"1"
+		}
+	}
+}
+"11 TF_WEAPON_SCATTERGUN"
+{
+	"item_class"		"tf_weapon_scattergun"
+	"item_type_name"	"#TF_Weapon_Scattergun"
+	"item_name"			"#TF_Weapon_Scattergun"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_scattergun.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_scatgun"
+	"disabled"			"1"
+	"used_by_classes"
+	{
+		"scout"
+		{
+		}
+	}
+}
+"12 TF_WEAPON_SNIPERRIFLE"
+{
+	"item_class"		"tf_weapon_sniperrifle"
+	"item_type_name"	"#TF_Weapon_SniperRifle"
+	"item_name"			"#TF_Weapon_SniperRifle"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_sniperrifle.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_sniper"
+	"used_by_classes"
+	{
+		"sniper"
+		{
+		}
+	}
+}
+"13 TF_WEAPON_MINIGUN"
+{
+	"item_class"		"tf_weapon_minigun"
+	"item_type_name"	"#TF_Weapon_Minigun"
+	"item_name"			"#TF_Weapon_Minigun"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_minigun.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_minigun"
+	"used_by_classes"
+	{
+		"heavy"
+		{
+		}
+	}
+}
+"14 TF_WEAPON_SMG"
+{
+	"item_class"		"tf_weapon_smg"
+	"item_type_name"	"#TF_Weapon_SMG"
+	"item_name"			"#TF_Weapon_SMG"
+	"item_type"			"weapon"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_smg.mdl"
+	"animtype"			"secondary"
+	"bucket"			"sprites/bucket_smg"
+	"used_by_classes"
+	{
+		"sniper"
+		{
+		}
+		"scout"
+		{
+			"item_class"		"tf_weapon_smg_scout"
+		}
+	}
+}
+"15 TF_WEAPON_SYRINGEGUN_MEDIC"
+{
+	"item_class"		"tf_weapon_syringegun_medic"
+	"item_type_name"	"#TF_Weapon_SuperSMG"
+	"item_name"			"#TF_Weapon_SuperSMG"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_syringegun.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_syrgun_red"
+	"bucket_blue"		"sprites/bucket_syrgun_blue"
+	"used_by_classes"
+	{
+		"medic"
+		{
+		}
+	}
+}
+"16 TF_WEAPON_TRANQ"
+{
+	"item_class"		"tf_weapon_tranq"
+	"item_type_name"	"#TF_Weapon_Tranq"
+	"item_name"			"#TF_Weapon_Tranq"
+	"item_type"			"weapon"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_tranq.mdl"
+	"animtype"			"secondary"
+	"bucket"			"sprites/bucket_tranq"
+	"used_by_classes"
+	{
+		"spy"
+		{
+		}
+	}
+}
+"17 TF_WEAPON_ROCKETLAUNCHER"
+{
+	"item_class"		"tf_weapon_rocketlauncher"
+	"item_type_name"	"#TF_Weapon_RocketLauncher"
+	"item_name"			"#TF_Weapon_RocketLauncher"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_rocketlauncher.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_rl"
+	"used_by_classes"
+	{
+		"soldier"
+		{
+		}
+	}
+}
+"18 TF_WEAPON_GRENADELAUNCHER"
+{
+	"item_class"		"tf_weapon_grenadelauncher"
+	"item_type_name"	"#TF_Weapon_GrenadeLauncher"
+	"item_name"			"#TF_Weapon_GrenadeLauncher"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_grenadelauncher.mdl"
+	"animtype"			"secondary"
+	"bucket"			"sprites/bucket_grenlaunch"
+	"used_by_classes"
+	{
+		"demoman"
+		{
+		}
+	}
+}
+"19 TF_WEAPON_PIPEBOMBLAUNCHER"
+{
+	"item_class"		"tf_weapon_pipebomblauncher"
+	"item_type_name"	"#TF_Weapon_PipebombLauncher"
+	"item_name"			"#TF_Weapon_PipebombLauncher"
+	"item_type"			"weapon"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenadelauncher.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_grenlaunch"
+	"used_by_classes"
+	{
+		"demoman"
+		{
+		}
+	}
+}
+"20 TF_WEAPON_FLAMETHROWER"
+{
+	"item_class"		"tf_weapon_flamethrower"
+	"item_type_name"	"#TF_Weapon_FlameThrower"
+	"item_name"			"#TF_Weapon_FlameThrower"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_flamethrower.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_flamethrower_red"
+	"bucket_blue"		"sprites/bucket_flamethrower_blue"
+	"used_by_classes"
+	{
+		"pyro"
+		{
+		}
+	}
+}
+"21 TF_WEAPON_GRENADE_NORMAL"
+{
+	"item_class"		"tf_weapon_grenade_normal"
+	"item_type_name"	"#TF_Weapon_Grenade_Normal"
+	"item_name"			"#TF_Weapon_Grenade_Normal"
+	"item_type"			"grenade"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_grenade_frag.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_frag_red"
+	"bucket_blue"		"sprites/bucket_grenade_frag_blue"
+	"used_by_classes"
+	{
+		"sniper"
+		{
+		}
+		"soldier"
+		{
+		}
+		"demoman"
+		{
+		}
+		"medic"
+		{
+		}
+		"heavy"
+		{
+		}
+		"pyro"
+		{
+		}
+		"spy"
+		{
+		}
+		"engineer"
+		{
+		}
+	}
+}
+"22 TF_WEAPON_GRENADE_CONCUSSION"
+{
+	"item_class"		"tf_weapon_grenade_concussion"
+	"item_type_name"	"#TF_Weapon_Grenade_Concussion"
+	"item_name"			"#TF_Weapon_Grenade_Concussion"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenade_conc.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_conc_red"
+	"bucket_blue"		"sprites/bucket_grenade_conc_blue"
+	"used_by_classes"
+	{
+		"scout"
+		{
+		}
+	}
+}
+"23 TF_WEAPON_GRENADE_NAIL"
+{
+	"item_class"		"tf_weapon_grenade_nail"
+	"item_type_name"	"#TF_Weapon_Grenade_Nail"
+	"item_name"			"#TF_Weapon_Grenade_Nail"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenade_nail.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_nail_red"
+	"bucket_blue"		"sprites/bucket_grenade_nail_blue"
+	"used_by_classes"
+	{
+		"soldier"
+		{
+		}
+	}
+}
+"24 TF_WEAPON_GRENADE_MIRV"
+{
+	"item_class"		"tf_weapon_grenade_mirv"
+	"item_type_name"	"#TF_Weapon_Grenade_Mirv"
+	"item_name"			"#TF_Weapon_Grenade_Mirv"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenade_mirv.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_mirv_red"
+	"bucket_blue"		"sprites/bucket_grenade_mirv_blue"
+	"used_by_classes"
+	{
+		"demoman"
+		{
+			"item_class"		"tf_weapon_grenade_mirv_demoman"
+		}
+		"heavy"
+		{
+		}
+	}
+}
+"25 TF_WEAPON_GRENADE_NAPALM"
+{
+	"item_class"		"tf_weapon_grenade_napalm"
+	"item_type_name"	"#TF_Weapon_Grenade_Napalm"
+	"item_name"			"#TF_Weapon_Grenade_Napalm"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenade_napalm.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_napalm_red"
+	"bucket_blue"		"sprites/bucket_grenade_napalm_blue"
+	"used_by_classes"
+	{
+		"pyro"
+		{
+		}
+	}
+}
+"26 TF_WEAPON_GRENADE_GAS"
+{
+	"item_class"		"tf_weapon_grenade_gas"
+	"item_type_name"	"#TF_Weapon_Grenade_Gas"
+	"item_name"			"#TF_Weapon_Grenade_Gas"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenade_gas.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_gas_red"
+	"bucket_blue"		"sprites/bucket_grenade_gas_blue"
+	"used_by_classes"
+	{
+		"spy"
+		{
+		}
+	}
+}
+"27 TF_WEAPON_GRENADE_EMP"
+{
+	"item_class"		"tf_weapon_grenade_emp"
+	"item_type_name"	"#TF_Weapon_Grenade_EMP"
+	"item_name"			"#TF_Weapon_Grenade_EMP"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenade_emp.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_emp_red"
+	"bucket_blue"		"sprites/bucket_grenade_emp_blue"
+	"used_by_classes"
+	{
+		"engineer"
+		{
+		}
+	}
+}
+"28 TF_WEAPON_GRENADE_CALTROP"
+{
+	"item_class"		"tf_weapon_grenade_caltrop"
+	"item_type_name"	"#TF_Weapon_Grenade_Caltrop"
+	"item_name"			"#TF_Weapon_Grenade_Caltrop"
+	"item_type"			"grenade"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_grenade_beartrap.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_beartrap_red"
+	"bucket_blue"		"sprites/bucket_grenade_beartrap_blue"
+	"used_by_classes"
+	{
+		"scout"
+		{
+		}
+	}
+}
+"29 TF_WEAPON_GRENADE_SMOKE_BOMB"
+{
+	"item_class"		"tf_weapon_grenade_smoke_bomb"
+	"item_type_name"	"#TF_Weapon_Grenade_Smoke_Bomb"
+	"item_name"			"#TF_Weapon_Grenade_Smoke_Bomb"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"bucket"			"sprites/bucket_grenade_gas_red"
+	"bucket_blue"		"sprites/bucket_grenade_gas_blue"
+	"used_by_classes"
+	{
+		"spy"
+		{
+		}
+	}
+}
+"30 TF_WEAPON_GRENADE_HEAL"
+{
+	"item_class"		"tf_weapon_grenade_heal"
+	"item_type_name"	"#TF_Weapon_Grenade_Heal"
+	"item_name"			"#TF_Weapon_Grenade_Heal"
+	"item_type"			"grenade"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_grenade_heal.mdl"
+	"animtype"			"grenade"
+	"bucket"			"sprites/bucket_grenade_heal_red"
+	"bucket_blue"		"sprites/bucket_grenade_heal_blue"
+	"used_by_classes"
+	{
+		"medic"
+		{
+		}
+	}
+}
+"31 TF_WEAPON_PISTOL"
+{
+	"item_class"		"tf_weapon_pistol"
+	"item_type_name"	"#TF_Weapon_Pistol"
+	"item_name"			"#TF_Weapon_Pistol"
+	"item_type"			"weapon"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_pistol.mdl"
+	"animtype"			"secondary"
+	"bucket"			"sprites/bucket_pistol"
+	"used_by_classes"
+	{
+		"engineer"
+		{
+		}
+		"scout"
+		{
+			"item_class"	"tf_weapon_pistol_scout"
+			"disabled"		"1"
+		}
+	}
+}
+"32 TF_WEAPON_REVOLVER"
+{
+	"item_class"		"tf_weapon_revolver"
+	"item_type_name"	"#TF_Weapon_Revolver"
+	"item_name"			"#TF_Weapon_Revolver"
+	"item_type"			"weapon"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_revolver.mdl"
+	"animtype"			"secondary"
+	"bucket"			"sprites/bucket_revolver"
+	"disabled"			"1"
+	"used_by_classes"
+	{
+		"spy"
+		{
+		}
+	}
+}
+"33 TF_WEAPON_NAILGUN"
+{
+	"item_class"		"tf_weapon_nailgun"
+	"item_type_name"	"#TF_Weapon_Nailgun"
+	"item_name"			"#TF_Weapon_Nailgun"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_nailgun.mdl"
+	"animtype"			"primary"
+	"bucket"			"sprites/bucket_nailgun"
+	"used_by_classes"
+	{
+		"scout"
+		{
+		}
+	}
+}
+"34 TF_WEAPON_PDA_ENGINEER_BUILD"
+{
+	"item_class"		"tf_weapon_pda_engineer_build"
+	"item_type_name"	"#TF_Weapon_PDA_Engineer"
+	"item_name"			"#TF_Weapon_PDA_Engineer"
+	"item_type"			"weapon"
+	"item_slot"			"4"
+	"model"				"models/weapons/w_models/w_builder.mdl"
+	"animtype"			"pda"
+	"bucket"			"sprites/bucket_pda_build"
+	"used_by_classes"
+	{
+		"engineer"
+		{
+		}
+	}
+}
+"35 TF_WEAPON_PDA_ENGINEER_DESTROY"
+{
+	"item_class"		"tf_weapon_pda_engineer_destroy"
+	"item_type_name"	"#TF_Weapon_PDA_Engineer"
+	"item_name"			"#TF_Weapon_PDA_Engineer"
+	"item_type"			"weapon"
+	"item_slot"			"5"
+	"model"				"models/weapons/w_models/w_pda_engineer.mdl"
+	"animtype"			"pda"
+	"bucket"			"sprites/bucket_pda_destroy"
+	"used_by_classes"
+	{
+		"engineer"
+		{
+		}
+	}
+}
+"36 TF_WEAPON_PDA_SPY"
+{
+	"item_class"		"tf_weapon_pda_spy"
+	"item_type_name"	"#TF_Weapon_PDA_Engineer"
+	"item_name"			"#TF_Weapon_PDA_Engineer"
+	"item_type"			"weapon"
+	"item_slot"			"3"
+	"model"				"models/weapons/w_models/w_cigarette_case.mdl"
+	"animtype"			"pda"
+	"bucket"			"sprites/bucket_pda"
+	"used_by_classes"
+	{
+		"spy"
+		{
+		}
+	}
+}
+"37 TF_WEAPON_MEDIGUN"
+{
+	"item_class"		"tf_weapon_medigun"
+	"item_type_name"	"#TF_Weapon_Medigun"
+	"item_name"			"#TF_Weapon_Medigun"
+	"item_type"			"weapon"
+	"item_slot"			"2"
+	"model"				"models/weapons/w_models/w_medigun.mdl"
+	"animtype"			"secondary"
+	"bucket"			"sprites/bucket_medigun_red"
+	"bucket_blue"		"sprites/bucket_medigun_blue"
+	"used_by_classes"
+	{
+		"medic"
+		{
+		}
+	}
+}
+"38 TF_WEAPON_INVIS"
+{
+	"item_class"		"tf_weapon_invis"
+	"item_type_name"	"#TF_Weapon_Watch"
+	"item_name"			"#TF_Weapon_Watch"
+	"item_type"			"weapon"
+	"item_slot"			"4"
+	"bucket"			"sprites/bucket_pda"
+	"used_by_classes"
+	{
+		"spy"
+		{
+		}
+	}
+}
+"39 TF_WEAPON_PIPE"
+{
+	"item_class"		"tf_weapon_pipe"
+	"item_type_name"	"#TF_Weapon_Pipe"
+	"item_name"			"#TF_Weapon_Pipe"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_leadpipe.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_pipe"
+	"used_by_classes"
+	{
+		"heavy"
+		{
+		}
+	}
+}
+"40 TF_WEAPON_SYRINGE"
+{
+	"item_class"		"tf_weapon_syringe"
+	"item_type_name"	"#TF_Weapon_Syringe"
+	"item_name"			"#TF_Weapon_Syringe"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_syringe.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_syringe"
+	"used_by_classes"
+	{
+		"medic"
+		{
+		}
+	}
+}
+"41 TF_WEAPON_BRANDINGIRON"
+{
+	"item_class"		"tf_weapon_brandingiron"
+	"item_type_name"	"#TF_Weapon_BrandingIron"
+	"item_name"			"#TF_Weapon_BrandingIron"
+	"item_slot"			"weapon1"
+	"model"				"models/weapons/w_models/w_brandingiron.mdl"
+	"animtype"			"melee"
+	"bucket"			"sprites/bucket_brandingiron"
+	"used_by_classes"
+	{
+		"demoman"
+		{
+		}
+	}
+}
+"8 TF_WEAPON_BLOWTORCH"
+{
+	"item_class"		"tf_weapon_blowtorch"
+	"item_type_name"	"#TF_Weapon_Blowtorch"
+	"item_name"			"#TF_Weapon_Blowtorch"
+	"item_type"			"weapon"
+	"item_slot"			"1"
+	"model"				"models/weapons/w_models/w_wrench.mdl"
+	"animtype"			"ac"
+	"bucket"			"sprites/bucket_wrench"
+	"used_by_classes"
+	{
+		"engineer"
+		{
+		}
+	}
+}

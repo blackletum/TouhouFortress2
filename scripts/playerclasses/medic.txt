@@ -1,0 +1,43 @@
+//
+// Team Fortress - Medic Player Class
+//
+PlayerClass
+{
+	// Attributes.
+	"name"			"medic"
+	"model"			"models/player/medic.mdl"
+	"model_hwm"		"models/player/hwm/medic.mdl"
+	"localize_name"	"TF_Class_Name_Medic"
+	"speed_max"		"320"
+	"health_armor_max"		"90"
+	"armor_max"		"100"
+	"armortype"		"2"
+	"health_max"		"150"
+
+	// Grenades.
+	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
+	"grenade2"		"TF_WEAPON_GRENADE_HEAL"
+
+	// Weapons.
+	"weapon1"		"TF_WEAPON_SYRINGE"
+	"weapon2"		"TF_WEAPON_MEDIGUN"
+	"weapon3"		"TF_WEAPON_SMG_MEDIC"
+	
+	//"DontDoAirwalk"	"1"
+	//"DontDoNewJump"	"1"
+
+	AmmoMax
+	{
+		"tf_ammo_primary"	"75"
+		"tf_ammo_secondary"	"300"
+		"tf_ammo_metal"		"100"
+		"tf_ammo_grenades1"	"4"
+		"tf_ammo_grenades2"	"3"
+	}	
+
+	// Death Sounds
+	"sound_death"				"Player.Death"
+	"sound_crit_death"				"TFPlayer.CritDeath"
+	"sound_melee_death"			"Player.MeleeDeath"
+	"sound_explosion_death"			"Player.ExplosionDeath"		
+}

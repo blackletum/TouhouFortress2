@@ -1,0 +1,41 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_leadpipe/v_leadpipe"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "3"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[.2 .2 .2]"		
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[.3 .5 3]"
+	"$halflambert" "1"
+
+	"$basemapalphaphongmask" "1"
+
+	"$glowcolor" "1"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+	}
+}
+

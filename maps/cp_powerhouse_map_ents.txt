@@ -1,0 +1,20 @@
+map_ents
+{
+	cp_powerhouse
+	{
+		"item_grenadepack"
+		{
+			"origin"	"0 -2416 1530"
+			"angles"	"0 -90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"2110 -2450 1285"
+			"angles"	"0 0 0"
+		}"item_armor"
+		{
+			"origin"	"-2110 -2450 1285"
+			"angles"	"0 0 0"
+		}
+	}
+}

@@ -1,0 +1,74 @@
+soldiermemorial
+{
+	ctf_2fort
+	{
+		origin "488 630 0"
+		angles "0 180 0"
+	}
+
+	ad_dustbowl
+	{
+		origin "-585 2682 -256"
+		angles "0 -180 0"
+	}
+	
+	ad_dustbowl2
+	{
+		origin "-2790 -655 0"
+		angles "0 90 0"
+	}
+	
+	cp_well
+	{
+		origin "-288 868 -510"
+		angles "0 -180 0"
+	}
+	
+	ctf_well
+	{
+		origin "-288 868 -510"
+		angles "0 -180 0"
+	}
+	
+	ad_gravelpit
+	{
+		origin "-4610 684 -511"
+		angles "0 0 0"
+	}
+	
+	ctf_badlands
+	{
+		origin "640 -1699 -169"
+		angles "0 180 0"
+	}
+	
+	cp_granary
+	{
+		origin "-2520 497 -414"
+		angles "0 0 0"
+	}
+	
+	background01
+	{
+		origin "1200 -54 130"
+		angles "0 145 0"
+	}
+
+	cp_powerhouse
+	{
+		origin "-880 -3854 1328"
+		angles "0 0 0"
+	}
+	
+	tc_hydro
+	{
+		origin "-1075 2335 248"
+		angles "0 180 0"
+	}
+	
+	pf_target
+	{
+		origin "-177 -980 -64"
+		angles "0 -180 0"
+	}
+}

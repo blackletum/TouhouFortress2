@@ -1,0 +1,12 @@
+background01
+pf_target
+tc_hydro
+cp_well
+cp_granary
+cp_powerhouse
+ad_dustbowl
+ad_dustbowl2
+ad_gravelpit
+ctf_2fort
+ctf_well
+ctf_badlands

@@ -1,0 +1,32 @@
+map_ents
+{
+	ctf_badlands
+	{
+		"item_armor"
+		{
+			"origin"	"768 -988 -718"
+			"angles"	"0 90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-768 988 -718"
+			"angles"	"0 90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-1246 -2032 -326"
+		}
+		"item_armor"
+		{
+			"origin"	"1246 2032 -326"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"2664 1280 -324"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"-2664 -1280 -324"
+		}
+	}
+}

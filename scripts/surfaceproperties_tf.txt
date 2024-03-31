@@ -1,0 +1,137 @@
+// pyro napalm grenade
+"grenade_napalm"
+{
+	"base"		"grenade"
+//	"friction"		"0.05"
+//	"elasticity"	"2"
+
+//	"audiohardnessfactor" "1.0"
+//	"audioroughnessfactor" "0.4"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_nail"
+{
+	"base"		"grenade"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_mirv"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_heal"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_gas"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_frag"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_emp"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_conc"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"grenade_beartrap"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"demoman_pipebomb"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}
+
+"demoman_grenade"
+{
+	"base"		"metal"
+
+	"bulletimpact"	"Grenade.ImpactHard"
+	"scraperough"	"Grenade.ScrapeRough"
+	"scrapesmooth"	"Grenade.ScrapeSmooth"
+	"impacthard"	"Grenade.ImpactHard"
+	"impactsoft"	"Grenade.ImpactSoft"
+	"rolling"	"Grenade.Roll"
+}

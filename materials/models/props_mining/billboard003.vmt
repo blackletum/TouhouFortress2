@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_mining/billboard003"
+	"$selfillum" 1
+
+}

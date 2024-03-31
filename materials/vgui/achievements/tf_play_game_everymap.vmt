@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\achievements/tf_play_game_everymap"
+	"$ignorez" 1
+}

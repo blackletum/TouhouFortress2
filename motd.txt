@@ -1,0 +1,17 @@
+Welcome to Touhou Fortress 2!
+
+Play nice.
+
+Our map rotation is:
+- Arena Hakurei Shrine
+- Scarlet Devil Mansion
+- Gravel Pit
+- Dustbowl
+- Dustbowl2
+- Badlands
+- Powerhouse
+- Granary
+- Well (CP)
+- Well (CTF)
+- 2Fort
+- Hydro

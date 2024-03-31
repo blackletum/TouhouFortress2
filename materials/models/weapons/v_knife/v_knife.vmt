@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_knife/v_knife"
+	"$bumpmap" "models/weapons\v_knife\v_knife_normal"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost" "0"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+
+	//"$rimlight" "1"
+	//"$rimlightexponent" "4"	
+	//"$rimlightboost" "2"
+
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"vm_invis"
+		{
+		}
+	}
+}

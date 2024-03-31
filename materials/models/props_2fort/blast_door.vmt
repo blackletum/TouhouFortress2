@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_2fort/blast_door"
+//   	"$envmap" "env_cubemap"
+//	"$basealphaenvmapmask" 1 
+//	"$envmaptint" "[.5 .5 .5]"
+
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost" "3"	
+//	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[2 1 .8]"
+	"$halflambert" "0"
+	"$bumpmap" "Models/props_2fort/blast_door_normal"
+	"$phongwarptexture"  "models\weapons\v_bat\v_bat_phongwarp"
+
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "glass/glasswindow"
+	"$alphatest" 1
+	"%keywords" "tf"
+}

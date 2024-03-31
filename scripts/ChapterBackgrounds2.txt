@@ -1,0 +1,22 @@
+"chapters"
+{
+	1	"background_touhou1"
+	2	"background_touhou2"
+	3	"background_touhou3"
+	4	"background_touhou4"
+	5	"background_touhou5"
+	6	"background01"
+	7	"background02"
+	8	"background03"
+}
+"BackgroundMaps"
+{
+	1	"background_touhou1"
+	2	"background_touhou2"
+	3	"background_touhou3"
+	4	"background_touhou4"
+	5	"background_touhou5"
+	6	"background01"
+	7	"background02"
+	8	"background03"
+}

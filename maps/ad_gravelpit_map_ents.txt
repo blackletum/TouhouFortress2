@@ -1,0 +1,16 @@
+map_ents
+{
+	ad_gravelpit
+	{
+		"item_armor"
+		{
+			"origin"	"-1934 2438 -380"
+			"angles"	"0 -90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"154 1160 -382"
+			"angles"	"0 -74 0"
+		}
+	}
+}

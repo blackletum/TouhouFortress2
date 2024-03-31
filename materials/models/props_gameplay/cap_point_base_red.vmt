@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "Models/props_gameplay/cap_point_base_red"
+//	"$bumpmap" "Models/props_gameplay/cap_point_base_normal"
+
+	"$selfillum" "1"
+	$selfillummask "Models/props_gameplay/cap_point_red_illum"
+	
+//	"$envmap" "env_cubemap"
+//	"$basealphaenvmapmask" "1" 
+//	"$envmaptint" "[.1 .1 .1]"
+
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" ".4"	
+	"$lightwarptexture" "models\buildables\sentry1\Sentry1_lightwarp"
+	"$phongfresnelranges"	"[.2 .4 .8]"
+	"$halflambert" "1"
+
+	//"$rimlight" "1"
+	//"$rimlightboost" "3"
+	//"$rimlightexponent" "10"
+
+
+
+	
+}

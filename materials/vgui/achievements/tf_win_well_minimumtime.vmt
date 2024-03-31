@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\achievements/tf_win_well_minimumtime"
+	"$ignorez" 1
+}

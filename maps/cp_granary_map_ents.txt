@@ -1,0 +1,24 @@
+map_ents
+{
+	cp_granary
+	{
+		"item_grenadepack"
+		{
+			"origin"	"-2836 -650 -406"
+		}
+		"item_grenadepack"
+		{
+			"origin"	"-240 650 -406"
+		}
+		"item_armor"
+		{
+			"origin"	"-1328 -2670 -410"
+			"angles"	"0 -90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-1752 2670 -410"
+			"angles"	"0 90 0"
+		}
+	}
+}

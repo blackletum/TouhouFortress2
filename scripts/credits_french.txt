@@ -1,0 +1,112 @@
+﻿
+L'ÉQUIPE DE DÉVELOPPEMENT DE PRE-FORTRESS 2
+
+
+
+CHEF DU PROJET
+
+Seal - Chef du projet
+
+
+
+PROGRAMMATION
+
+Technochips - Programmeur principale
+AlexEpisode - Programmeur
+AnthonyPython - Programmeur
+Chrits - Programmeur
+Mechadexic - Programmeur
+Nbc66 - Programmeur, Programmeur de Discord RPC
+NotSuspect - Programmeur
+Train - Programmeur
+
+
+
+MODÈLES
+
+Alaxe - Modeleur
+Frylander - Animateur
+Lurondor - Modeleur
+Seal - Modeleur, Animateur
+Technochips - Modeleur
+Wolfcl0ck - Modeleur
+
+
+
+MAPPEURS
+
+Horiuchi - Mappeur principale
+Bradasparky - Mappeur
+NotSuspect - Mappeur
+Technochips - Mappeur
+
+
+
+
+ARTISTES
+
+boba - Designer graphique, Editeur de particules, Artiste de texture
+Lurondor - Artiste de texture
+Stachekip - Artiste de texture, Artiste de sons
+swoo - Rigging de modèles, Weight painting
+Technochips - Editeur de particules
+
+
+
+TRADUCTIONS
+
+AlexEpisode - Traducteur russe
+Technochips - Traducteur français
+Wolfcl0ck - Traducteur français
+FusionR - Traduction serbo-croate
+
+
+
+CONTRIBUTEURS COMMUNAUTAIRE
+
+Big Man Man - Bêta testeur
+Bumpmap - Bêta testeur
+Cadillac - Bêta testeur, Animateur
+Cyruktez - Bêta testeur
+Dead_thing - Bêta testeur
+Drew - Bêta testeur
+DrPyspy - Bêta testeur, Modeleur
+Drudlyclean the Skeledude - Bêta testeur, Concepts
+EnergyPixel - Bêta testeur, Modeleor
+EverMatt - Bêta testeur, Moderateur Discord
+Farlander - Animateur
+Ficool2 - Modeleur
+FusionR - Bêta testeur
+G-Gnome505 - Modeleur, Animator
+GermanPeter - Bêta testeur
+Ghetto Gamer - Concepts
+HDMine Face - Bêta testeur, Mappeur
+Igarni - Bêta testeur
+Jasper - Artiste de texture
+Kit Carson - Bêta testeur, Mappeur
+Krowing - Concepts
+MacD11 - Bêta testeur
+Marioiscool246 - Bêta testeur
+McWendies Chicken Tendie - Bêta testeur, Artiste SFM
+Private Polygon - Bêta testeur, Animateur, Moderateur Discord
+Retro - Concepts
+Sandvich Thief - Bêta testeur, Modeleur, Artiste de texture
+Sapphire Sky - Bêta testeur, Modeleur, Moderateur Discord
+The Gman - Artiste de texture
+Tyler McVicker - Bêta testeur, Journaliste
+Sage J. Fox - Det-Pack Modèle
+
+
+
+AUTRE MODS
+
+Open Fortress
+Team Fortress 2 Classic
+Momentum Mod
+
+
+
+VALVE
+
+Valve Corporation
+L'équipe TF2

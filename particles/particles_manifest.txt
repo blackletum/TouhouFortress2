@@ -1,0 +1,60 @@
+ particles_manifest
+{
+	"file"		"!particles/error.pcf"
+	
+	//Misc
+	"file"		"!particles/buildingdamage.pcf"
+	"file"		"!particles/flag_particles.pcf"
+	"file"		"!particles/sparks.pcf"
+	"file"		"!particles/teleport_status.pcf"
+	
+	//Player
+	"file"		"!particles/burningplayer.pcf"
+	"file"		"!particles/blood_impact.pcf"
+	"file"		"!particles/blood_trail.pcf"
+	"file"		"!particles/disguise.pcf"
+	"file"		"!particles/player_recent_teleport.pcf"
+	"file"		"!particles/rocketjumptrail.pcf"
+
+	//World
+	"file"		"!particles/cig_smoke.pcf"
+	"file"		"particles/smoke_blackbillow.pcf"
+	"file"		"!particles/teleported_fx.pcf"
+	"file"		"!particles/water.pcf"
+	
+	//Weapons
+	"file"		"!particles/bullet_tracers.pcf"
+	"file"		"!particles/crit.pcf"
+	"file"		"!particles/explosion.pcf"
+	"file"		"!particles/flamethrower.pcf"
+	"file"		"!particles/incendiary_disappear.pcf"
+	"file"		"!particles/incendiaryrockettrail.pcf"
+	"file"		"!particles/medicgun_beam.pcf"
+	"file"		"!particles/muzzle_flash.pcf"
+	"file"		"!particles/nailtrails.pcf"
+	"file"		"!particles/rocketbackblast.pcf"
+	"file"		"!particles/rockettrail.pcf"
+	"file"		"!particles/shellejection.pcf"
+	"file"		"!particles/stickybomb.pcf"
+	"file"		"!particles/tranq_tracers.pcf"
+	
+	//Grenades
+	"file"		"!particles/grenades.pcf"
+	"file"		"!particles/conc_warp.pcf"
+	"file"		"!particles/nailgrenadejet.pcf"
+	"file"		"!particles/napalm_explosion.pcf"
+	"file"		"!particles/fuse_napalmspark.pcf"
+	"file"		"!particles/fuse_spark.pcf"
+	"file"		"!particles/emp_shockwave.pcf"
+	"file"		"!particles/heal_grenade.pcf"
+	"file"		"!particles/heal_ticker.pcf"
+	"file"		"!particles/spy_gasgrenade.pcf"
+	
+	//Head
+	"file"		"!particles/conc_stars.pcf"
+	"file"		"!particles/gas_poison.pcf"
+	"file"		"!particles/nemesis.pcf"
+	"file"		"!particles/speechbubbles.pcf"
+	"file"		"!particles/tranq_sleepy.pcf"
+	
+}

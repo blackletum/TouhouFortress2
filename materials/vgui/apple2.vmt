@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\apple2"
+	"$translucent" 1
+	"$ignorez" 1
+	"$vertexcolor" 1
+}

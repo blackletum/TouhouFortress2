@@ -1,0 +1,41 @@
+map_ents
+{
+	tc_hydro
+	{
+		"item_armor"
+		{
+			"origin"	"-624 189 50"
+			"angles"	"0 90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"1500 -1370 132"
+			"angles"	"0 -45 0"
+		}
+		"item_armor"
+		{
+			"origin"	"822 832 450"
+			"angles"	"0 0 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-28 2190 450"
+			"angles"	"0 0 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-480 -52 674"
+			"angles"	"0 0 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-3584 -1170 260"
+			"angles"	"0 0 0"
+		}
+		"item_armor"
+		{
+			"origin"	"3550 2112 514"
+			"angles"	"0 0 0"
+		}
+	}
+}

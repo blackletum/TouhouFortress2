@@ -1,0 +1,46 @@
+//
+// Team Fortress - Spy Player Class
+//
+PlayerClass
+{
+	// Attributes.
+	"name"			"spy"
+	"model"			"models/player/spy.mdl"
+	"model_hwm"		"models/player/hwm/spy.mdl"
+	"localize_name"	"TF_Class_Name_Spy"
+	"speed_max"		"300"
+	"health_armor_max"		"90"
+	"armor_max"		"100"
+	"armortype"		"2"
+	"health_max"		"125"
+
+	// Grenades.
+	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
+	"grenade2"		"TF_WEAPON_GRENADE_GAS"
+
+	// Weapons.
+	"weapon1"		"TF_WEAPON_KNIFE"
+	"weapon2"		"TF_WEAPON_REVOLVER"
+	"weapon3"		"TF_WEAPON_TRANQ"
+	"weapon4"		"TF_WEAPON_PDA_SPY"
+	"weapon5"		"TF_WEAPON_INVIS"
+	
+	// Buildables
+	"buildable1"	"OBJ_ATTACHMENT_SAPPER"
+	
+
+	AmmoMax
+	{
+		"tf_ammo_primary"	"36"		
+		"tf_ammo_secondary"	"30"
+		"tf_ammo_metal"		"100"
+		"tf_ammo_grenades1"	"4"
+		"tf_ammo_grenades2"	"4"
+	}
+
+	// Death Sounds
+	"sound_death"				"Player.Death"
+	"sound_crit_death"				"TFPlayer.CritDeath"
+	"sound_melee_death"			"Player.MeleeDeath"
+	"sound_explosion_death"			"Player.ExplosionDeath"		
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\achievements/tf_get_multiplekills"
+	"$ignorez" 1
+}

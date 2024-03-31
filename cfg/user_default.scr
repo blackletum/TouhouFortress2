@@ -1,0 +1,490 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// User options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Tue Jul 13 17:43:58 AM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION INFO_OPTIONS
+{
+	"category1"
+	{
+		"#TF_PF_OPT_CAT3"
+		{ CATEGORY }
+	}
+	
+	"pf_discord_rpc"
+	{
+		"#TF_discord"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"pf_discord_class"
+	{
+		"#TF_discord_class"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"category2"
+	{
+		"#TF_PF_OPT_CAT1"
+		{ CATEGORY }
+	}
+
+	"pf_team_colored_spy_cloak"
+	{
+		"#TF_coloredcloak"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"pf_muzzleflash"
+	{
+		"#TF_muzzleflash"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"pf_showchatbubbles"
+	{
+		"#TF_showchatbubbles"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"cl_chat_sound"
+	{
+		"#TF_chatsound"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"pf_achievement_notifications"
+	{
+		"#PF_Achievement_Notifications"
+		{ LIST
+			"#GameUI_None"			"0"
+			"#PF_Achievement_Notifications_Completed"			"1"
+			"#PF_Achievement_Notifications_All"		"2"
+		}
+		{ "2" }
+	}
+
+	"category3"
+	{
+		"#TF_PF_OPT_CAT2"
+		{ CATEGORY }
+	}
+
+	"pf_muzzlelight"
+	{
+		"#TF_muzzlelight"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"pf_muzzlelightsprops"
+	{
+		"#TF_muzzlelightprop"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"pf_burningplayerlight"
+	{
+		"#TF_dlightfire"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"pf_projectilelight"
+	{
+		"#TF_dlightprojectile"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"pf_cheapbulletsplash"
+	{
+		"#TF_cheapwater"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"pf_blood_impact_disable"
+	{
+		"#TF_violence"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"pf_picmip"
+	{
+		"#TF_PICMIP"
+		{ SLIDER -10 10 }
+		{ "0" }
+	}
+	
+	"category4"
+	{
+		"#TF_OptionCategory_Combat"
+		{ CATEGORY }
+	}
+	
+	"pf_grenade_press_throw"
+	{	
+		"#PF_Grenade_Press_Throw"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"cl_autoreload"
+	{
+		"#TF_autoreload"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"hud_fastswitch"
+	{
+		"#TF_FastSwitchMethod"
+		{ LIST
+			"#TF_FastSwitch_Def"			"0"
+			"#TF_FastSwitch_Fast"			"1"
+			"#TF_FastSwitch_Bucket360"		"2"
+			"#TF_FastSwitch_CarouselScroll" "3"
+		}
+		{ "0" }
+	}
+
+	"tf_dingalingaling"
+	{
+		"#TF_dingalingaling"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"tf_dingaling_volume"
+	{
+		"#TF_Dingaling_Volume"
+		{ SLIDER 0 1 }
+		{ "1" }
+	}
+
+	"tf_dingalingaling_effect"
+	{
+		"#tf_dingalingaling_effect"
+		{
+			LIST
+			"#tf_dingalingaling_Default" "0"
+			"#tf_dingalingaling_Electro" "1"
+			"#tf_dingalingaling_Notes" "2"
+			"#tf_dingalingaling_Percussion" "3"
+			"#tf_dingalingaling_Retro" "4"
+			"#tf_dingalingaling_Space" "5"
+			"#tf_dingalingaling_Beepo" "6"
+			"#tf_dingalingaling_Vortex" "7"
+			"#tf_dingalingaling_Squasher" "8"
+		}
+		{ "0" }
+	}
+
+	"tf_dingaling_pitchmindmg"
+	{
+		"#TF_Dingaling_PitchLowDmg"
+		{ SLIDER 1 255 }
+		{ "75" }
+	}
+
+	"tf_dingaling_pitchmaxdmg"
+	{
+		"#TF_Dingaling_PitchHighDmg"
+		{ SLIDER 1 255 }
+		{ "195" }
+	}
+
+	"tf_dingalingaling_lasthit"
+	{
+		"#TF_dingalingaling_lasthit"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"tf_dingaling_lasthit_volume"
+	{
+		"#TF_Dingaling_LastHit_Volume"
+		{ SLIDER 0 1 }
+		{ "1" }
+	}
+
+	"tf_dingalingaling_last_effect"
+	{
+		"#tf_dingalingaling_last_effect"
+		{
+			LIST
+			"#tf_dingalingaling_Default" "0"
+			"#tf_dingalingaling_Electro" "1"
+			"#tf_dingalingaling_Notes" "2"
+			"#tf_dingalingaling_Percussion" "3"
+			"#tf_dingalingaling_Retro" "4"
+			"#tf_dingalingaling_Space" "5"
+			"#tf_dingalingaling_Beepo" "6"
+			"#tf_dingalingaling_Vortex" "7"
+			"#tf_dingalingaling_Squasher" "8"
+		}
+		{ "0" }
+	}
+
+	"tf_dingaling_lasthit_pitchmindmg"
+	{
+		"#TF_Dingaling_LastHit_PitchLowDmg"
+		{ SLIDER 1 255 }
+		{ "100" }
+	}
+
+	"tf_dingaling_lasthit_pitchmaxdmg"
+	{
+		"#TF_Dingaling_LastHit_PitchHighDmg"
+		{ SLIDER 1 255 }
+		{ "100" }
+	}
+
+	"hud_combattext"
+	{
+		"#TF_combattext"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"hud_combattext_batching"
+	{
+		"#TF_combattext_batching"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"hud_combattext_batching_window"
+	{
+		"#TF_combattext_batching_window"
+		{ NUMBER 0 -1 }
+		{ "1" }
+	}
+	
+	"hud_combattext_red"
+	{
+		"#TF_combattext_red"
+		{ SLIDER 0 255 }
+		{ "255" }
+	}
+	
+	"hud_combattext_green"
+	{
+		"#TF_combattext_green"
+		{ SLIDER 0 255 }
+		{ "0" }
+	}
+	
+	"hud_combattext_blue"
+	{
+		"#TF_combattext_blue"
+		{ SLIDER 0 255 }
+		{ "0" }
+	}
+	
+	"tf_dingalingaling_lastarmorhit"
+	{
+		"#PF_dingalingaling_lastarmorhit"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"tf_dingaling_lastarmor_volume"
+	{
+		"#PF_dingaling_lastarmor_volume"
+		{ SLIDER 0 1 }
+		{ "1" }
+	}
+	
+	"hud_combattext_armor_red"
+	{
+		"#PF_combattext_armor_red"
+		{ SLIDER 0 255 }
+		{ "255" }
+	}
+	
+	"hud_combattext_armor_green"
+	{
+		"#PF_combattext_armor_green"
+		{ SLIDER 0 255 }
+		{ "0" }
+	}
+	
+	"hud_combattext_armor_blue"
+	{
+		"#PF_combattext_armor_blue"
+		{ SLIDER 0 255 }
+		{ "0" }
+	}
+	
+	"category5"
+	{
+		"#TF_OptionCategory_ClassSpecific"
+		{ CATEGORY }
+	}
+	
+	"tf_medigun_autoheal"
+	{
+		"#TF_medigun_autoheal"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"pf_holdzoom"
+	{
+		"#PF_holdzoom"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"category6"
+	{
+		"#TF_OptionCategory_HUD"
+		{ CATEGORY }
+	}
+	
+	"hud_deathnotice_time"
+	{
+		"#TF_HUD_DEATHNOTICETIME"
+		{ NUMBER 0 -1 }
+		{ "6" }
+	}
+	
+	"cl_hud_minmode"
+	{
+		"#TF_HUD_MINMODE"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"hud_freezecamhide"
+	{
+		"#TF_FreezeCamHide"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"pf_freezecammodel"
+	{
+		"#PF_FreezeCamModel"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"r_drawviewmodel"
+	{
+		"#TF_VIEWMODEL"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"viewmodel_fov"
+	{
+		"#TF_VIEWMODEL_FOV"
+		{ SLIDER 54 90 }
+		{ "54" }
+	}
+	
+	"viewmodel_offset_x"
+	{
+		"#TF_VIEWMODEL_OFFSET_X"
+		{ NUMBER -1 -1 }
+		{ "0" }
+	}
+	
+	"viewmodel_offset_y"
+	{
+		"#TF_VIEWMODEL_OFFSET_Y"
+		{ NUMBER -1 -1 }
+		{ "0" }
+	}
+
+	"viewmodel_offset_z"
+	{
+		"#TF_VIEWMODEL_OFFSET_Z"
+		{ NUMBER -1 -1 }
+		{ "0" }
+	}
+	
+	"category7"
+	{
+		"#TF_OptionCategory_Misc"
+		{ CATEGORY }
+	}
+	
+	"hud_classautokill"
+	{
+		"#TF_classautokill"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"hud_takesshots"
+	{
+		"#game_takesshots"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"cl_playerspraydisable"
+	{
+		"#GameUI_DisableSprays"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"mp_decals"
+	{
+		"#Valve_Multiplayer_Decal_Limit"
+		{ NUMBER 0 4096 }
+		{ "200" }
+	}
+	
+	
+}
+

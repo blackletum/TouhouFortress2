@@ -1,0 +1,336 @@
+"characters"
+{
+	"basic_alice"
+	{
+		"image"	"../console/characters/alice"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+	}
+	"basic_flan"
+	{
+		"image"	"../console/characters/flan"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+	}
+	"basic_nitori"
+	{
+		"image"	"../console/characters/nitori"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+	}
+	"basic_pachu"
+	{
+		"image"	"../console/characters/pachu"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+	}
+	"basic_reimu"
+	{
+		"image"	"../console/characters/reimu"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+	}
+	"basic_remi"
+	{
+		"image"	"../console/characters/remi"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+	}
+	"basic_sakuya"
+	{
+		"image"	"../console/characters/sakuya"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+	}
+	"basic_youmu"
+	{
+		"image"	"../console/characters/youmu"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+	}
+	"basic_yuyuko"
+	{
+		"image"	"../console/characters/yuyuko"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+	}
+
+
+	"basic_aki"
+	{
+		"image"	"../console/characters/aki"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+	}
+	"basic_sanae"
+	{
+		"image"	"../console/characters/sanae"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+	}
+	"basic_hina"
+	{
+		"image"	"../console/characters/hina"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+	}
+	"basic_koishi"
+	{
+		"image"	"../console/characters/koishi"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+	}
+	"basic_komachi"
+	{
+		"image"	"../console/characters/komachi"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+	}
+	"basic_kasen"
+	{
+		"image"	"../console/characters/kasen"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+	}
+	"basic_eiki"
+	{
+		"image"	"../console/characters/eiki"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+	}
+	"basic_seiga"
+	{
+		"image"	"../console/characters/seiga"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+	}
+	"basic_suika"
+	{
+		"image"	"../console/characters/suika"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+	}
+
+	"basic_meirin"
+	{
+		"image"	"../console/characters/alice"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+	}
+	"basic_miko"
+	{
+		"image"	"../console/characters/flan"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+	}
+	"basic_yuka"
+	{
+		"image"	"../console/characters/nitori"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+	}
+	"basic_aya"
+	{
+		"image"	"../console/characters/aya"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+	}
+	"basic_byakuren"
+	{
+		"image"	"../console/characters/byakuren"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+	}
+	"basic_chen"
+	{
+		"image"	"../console/characters/chen"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+	}
+	"basic_chiruno"
+	{
+		"image"	"../console/characters/chiruno"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+	}
+	"basic_eirin"
+	{
+		"image"	"../console/characters/eirin"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+	}
+	"basic_hatate"
+	{
+		"image"	"../console/characters/hatate"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+	}
+
+
+	"basic_kanako"
+	{
+		"image"	"../console/characters/kanako"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+	}
+	"basic_koakuma"
+	{
+		"image"	"../console/characters/koakuma"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+	}
+	"basic_mamizou"
+	{
+		"image"	"../console/characters/mamizou"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+	}
+	"basic_murasa"
+	{
+		"image"	"../console/characters/murasa"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+	}
+	"basic_mystia"
+	{
+		"image"	"../console/characters/mystia"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+	}
+	"basic_nue"
+	{
+		"image"	"../console/characters/nue"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+	}
+	"basic_parsee"
+	{
+		"image"	"../console/characters/parsee"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+	}
+	"basic_reimu2"
+	{
+		"image"	"../console/characters/reimu2"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+	}
+	"basic_rin"
+	{
+		"image"	"../console/characters/rin"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+	}
+
+	"basic_rumia"
+	{
+		"image"	"../console/characters/rumia"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+	}
+	"basic_satori"
+	{
+		"image"	"../console/characters/satori"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+	}
+	"basic_suwako"
+	{
+		"image"	"../console/characters/suwako"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+	}
+	"basic_tewi"
+	{
+		"image"	"../console/characters/tewi"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+	}
+	"basic_yoshika"
+	{
+		"image"	"../console/characters/yoshika"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+	}
+	"basic_yugi"
+	{
+		"image"	"../console/characters/yugi"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+	}
+	"basic_yukari"
+	{
+		"image"	"../console/characters/yukari"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+	}
+
+	
+
+	
+	"halloween_demoman"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_engineer"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_heavy"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_medic"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_pyro"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_scout"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_sniper"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_soldier"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"halloween_spy"
+	{
+		"image"	"../console/characters/hai"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	
+
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\achievements/tf_win_2fort_noenemycaps"
+	"$ignorez" 1
+}

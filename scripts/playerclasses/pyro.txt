@@ -1,0 +1,40 @@
+//
+// Team Fortress - Pyro Player Class
+//
+PlayerClass
+{
+	// Attributes.
+	"name"			"pyro"
+	"model"			"models/player/pyro.mdl"
+	"model_hwm"		"models/player/hwm/pyro.mdl"
+	"localize_name"	"TF_Class_Name_Pyro"
+	"speed_max"		"300"
+	"health_armor_max"		"100"
+	"armor_max"		"150"
+	"armortype"		"2"
+	"health_max"		"175"
+
+	// Grenades.
+	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
+	"grenade2"		"TF_WEAPON_GRENADE_NAPALM"
+
+	// Weapons.
+	"weapon1"		"TF_WEAPON_BRANDINGIRON"
+	"weapon2"		"TF_WEAPON_SHOTGUN_PYRO"
+	"weapon3"		"TF_WEAPON_FLAMETHROWER"
+
+	AmmoMax
+	{
+		"tf_ammo_primary"	"200"
+		"tf_ammo_secondary"	"32"
+		"tf_ammo_metal"		"100"
+		"tf_ammo_grenades1"	"4"
+		"tf_ammo_grenades2"	"2"
+	}
+
+	// Death Sounds
+	"sound_death"				"Player.Death"
+	"sound_crit_death"				"TFPlayer.CritDeath"
+	"sound_melee_death"			"Player.MeleeDeath"
+	"sound_explosion_death"			"Player.ExplosionDeath"			
+}

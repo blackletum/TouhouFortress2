@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_spytech/fire_bell01"
+	"$bumpmap" "Models/effects/flat_normal"
+
+}

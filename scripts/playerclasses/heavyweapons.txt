@@ -1,0 +1,41 @@
+//
+// Team Fortress - HeavyWeapons Player Class
+//
+PlayerClass
+{
+	// Attributes.
+	"name"			"heavyweapons"
+	"model"			"models/player/heavy.mdl"
+	"model_hwm"		"models/player/hwm/heavy.mdl"
+	"localize_name"	"TF_Class_Name_HWGuy"
+	"speed_max"		"230"
+	"health_armor_max"		"100"
+	"armor_max"		"300"
+	"armortype"		"3"
+	"health_max"		"300"
+
+	// Grenades.
+	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
+	"grenade2"		"TF_WEAPON_GRENADE_MIRV"
+
+	// Weapons.
+	"weapon1"		"TF_WEAPON_PIPE"
+	"weapon2"		"TF_WEAPON_SHOTGUN_HWG"
+	"weapon3"		"TF_WEAPON_MINIGUN"
+	
+
+	AmmoMax
+	{
+		"tf_ammo_primary"	"200"
+		"tf_ammo_secondary"	"32"
+		"tf_ammo_metal"		"100"
+		"tf_ammo_grenades1"	"4"
+		"tf_ammo_grenades2"	"2"
+	}	
+
+	// Death Sounds
+	"sound_death"				"Player.Death"
+	"sound_crit_death"				"TFPlayer.CritDeath"
+	"sound_melee_death"			"Player.MeleeDeath"
+	"sound_explosion_death"			"Player.ExplosionDeath"		
+}

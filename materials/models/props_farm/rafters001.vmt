@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_farm/wood_beam01"
+	"$surfaceprop" "wood"
+	"%keywords" "tf"
+}

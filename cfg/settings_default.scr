@@ -1,0 +1,237 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// Multiplayer options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life Server Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Mon Jul 12 05:28:33 PM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION SERVER_OPTIONS
+{
+
+	"category1"
+	{
+		"#TF_SERVER_CAT1"
+		{ CATEGORY }
+	}
+
+	"hostname"
+	{
+		"#Valve_Hostname"
+		{ STRING }
+		{ "Pre-Fortress 2" }
+	}
+
+	"maxplayers"
+	{
+		"#Valve_Max_Players"
+		{ NUMBER 1 32 }
+		{ "24" }
+	}
+
+	"sv_password"
+	{
+		"#Valve_Server_Password"
+		{ STRING }
+		{ "" }
+	}
+
+	"sv_lan"
+	{
+		"#TF_LAN"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"category2"
+	{
+		" "
+		{ CATEGORY }
+	}
+
+	"category3"
+	{
+		"#TF_SERVER_CAT2"
+		{ CATEGORY }
+	}
+	
+	"mp_timelimit"
+	{
+		"#TF_Timelimit"
+		{ NUMBER 0 -1 }
+		{ "30" }
+	}
+
+	"mp_winlimit"
+	{
+		"#TF_WinLimit"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+	
+	"mp_maxrounds"
+	{
+		"#TF_MaxRounds"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+	
+	"category4"
+	{
+		" "
+		{ CATEGORY }
+	}
+
+	"category5"
+	{
+		"#TF_SERVER_CAT3"
+		{ CATEGORY }
+	}
+	
+	"tf_flag_caps_per_round"
+	{
+		"#TF_CTFLimit"
+		{ NUMBER 0 -1 }
+		{ "3" }
+	}
+	
+	"category6"
+	{
+		" "
+		{ CATEGORY }
+	}
+
+	"category7"
+	{
+		"#TF_SERVER_CAT4"
+		{ CATEGORY }
+	}
+
+	"pf_cp_flag"
+	{
+		"#TF_CPFlag"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"pf_flag_speed_penalty"
+	{
+		"#TF_CPFlagSpeedPenalty"
+		{ NUMBER 0.1 1 }
+		{ "0.75" }
+	}
+
+	"pf_cp_flag_reset_on_cap"
+	{
+		"#TF_CPResetFlagOnCap"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"category8"
+	{
+		" "
+		{ CATEGORY }
+	}
+
+	"category9"
+	{
+		"#TF_SERVER_CAT5"
+		{ CATEGORY }
+	}
+	
+	"pf_armor_enabled"
+	{
+		"#TF_Armor"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"pf_bufferjumping"
+	{
+		"#TF_bunnyhopping"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"pf_delayed_knife"
+	{
+		"#TF_delayedknife"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"pf_grenades"
+	{
+		"#TF_grenades"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"pf_grenades_infinite"
+	{
+		"#TF_grenades_infinite"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"category10"
+	{
+		"=========="
+		{ CATEGORY }
+	}
+	
+	"sv_allow_votes"
+	{
+		"#TF_AllowVoteSystem"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"mp_disable_respawn_times"
+	{
+		"#TF_DisableRespawn"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"sv_alltalk"
+	{
+		"#TF_Alltalk"
+		{ BOOL }
+		{ "1" }
+	}
+}

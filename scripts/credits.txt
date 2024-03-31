@@ -1,0 +1,339 @@
+"credits"
+{
+	"developers"
+	{
+		"Private Polygon"
+		{
+			"lead"				"1"
+		}
+		"Technochips"
+		{
+			"code"				"1"
+			"models"			"1"
+			"mapper"			"1"
+			"particles"			"1"
+			"localization"
+			{
+				"French"	"1"
+			}
+		}
+		"AlexEpisode"
+		{
+			"code"				"1"
+			"localization"
+			{
+				"Russian"	"1"
+			}
+		}
+		"AnthonyPython"
+		{
+			"code"				"1"
+		}
+		"Chrits"
+		{
+			"code"				"1"
+		}
+		"Nbc66"
+		{
+			"code"				"1"
+			"other"
+			{
+				"English"		"Discord RPC implimentation"
+			}
+		}
+		"Suspect"
+		{
+			"code"				"1"
+			"mapper"			"1"
+		}
+		"Wolfcl0ck"
+		{
+			"models"			"1"
+		}
+		"Bradasparky"
+		{
+			"mapper"			"1"
+		}
+		"Stachekip"
+		{
+			"textures"			"1"
+			"sounds"			"1"
+			"other"
+			{
+				"English"		"Flexes"
+			}
+		}
+		"Jasper"
+		{
+			"textures"			"1"
+			"tester"			"1"
+		}
+		"Sandvich Thief"
+		{
+			"tester"			"1"
+			"models"			"1"
+			"textures"			"1"
+		}
+		"RedFire"
+		{
+			"mapper"			"1"
+		}
+	}
+	"contributors"
+	{
+		"Mechadexic"
+		{
+			"code"				"1"
+			"tester"			"1"
+		}
+		"Alaxe"
+		{
+			"models"			"1"
+		}
+		"Frylander"
+		{
+			"animation"			"1"
+			"tester"			"1"
+		}
+		"Lurondor"
+		{
+			"models"			"1"
+			"textures"			"1"
+		}
+		"DrSeal"
+		{
+			"models"			"1"
+			"animation"			"1"
+			"tester"			"1"
+		}
+		"Swoo"
+		{
+			"animation"			"1"
+		}
+		"FusionR"
+		{
+			"localization"
+			{
+				"Serbo-Croatian"	"1"
+			}
+			"tester"			"1"
+		}
+		
+		"Boba"
+		{
+			"tester"			"1"
+			"particles"			"1"
+			"other"
+			{
+				"English"		"Graphics designer"
+			}
+		}
+		"Cadillac"
+		{
+			"tester"			"1"
+			"animation"			"1"
+		}
+		"DrPyspy"
+		{
+			"tester"			"0"
+			"models"			"1"
+		}
+		"Drudlyclean the Skeledude"
+		{
+			"tester"			"1"
+			"concepts"			"1"
+		}
+		"EnergyPixel"
+		{
+			"tester"			"1"
+			"models"			"1"
+		}
+		"Ficool2"
+		{
+			"models"			"1"
+		}
+		"G-Gnome505"
+		{
+			"tester"			"1"
+			"models"			"1"
+			"animation"			"1"
+		}
+		
+		"Ghetto Gamer"
+		{
+			"concepts"			"1"
+		}
+		"HDMine Face"
+		{
+			"tester"			"1"
+			"mapper"			"1"
+		}
+		"Horiuchi"
+		{
+			"tester"			"1"
+			"mapper"			"1"
+		}
+		"Dream"
+		{
+			"tester"			"1"
+			"mapper"			"1"
+		}
+		
+		"Kit Carson"
+		{
+			"tester"			"1"
+			"mapper"			"1"
+			"other"
+			{
+				"English"		"Beta Badlands remake"
+			}
+		}
+		"Krowing"
+		{
+			"tester"			"1"
+			"concepts"			"1"
+		}
+		
+		"McWendies Chicken Tendie"
+		{
+			"tester"			"1"
+			"other"
+			{
+				"English"		"SFM Arist"
+			}
+		}
+		"MTD"
+		{
+			"other"
+			{
+				"English"		"Concussion Studios intro video"
+			}
+		}
+		"Retro"
+		{
+			"tester"			"1"
+			"concepts"			"1"
+		}
+		"Xeller"
+		{
+			"textures"			"1"
+		}
+		"Tyler McVicker"
+		{
+			"tester"			"1"
+			"other"
+			{
+				"English"		"Promotion"
+			}
+		}
+		"Sage J. Fox"
+		{
+			"other"
+			{
+				"English"		"Det-Pack model"
+			}
+		}
+		"Train"
+		{
+			"code"				"1"
+		}
+		"fi(v)e"
+		{
+			"other"
+			{
+				"English"		"Det-Pack icons and HUD design"
+			}
+		}
+		"Кей"
+		{
+			"localization"
+			{
+				"Russian"	"1"
+			}
+		}
+		"Frispy"
+		{
+			"localization"
+			{
+				"Ukrainian"	"1"
+			}
+		}
+	}
+	"playtesters"
+	{
+		"Big Man Man"
+		{
+		}
+		"Bumpmap"
+		{
+		}
+		"Cyruktez"
+		{
+		}
+		"dead_thing"
+		{
+		}
+		// when
+		"drew"
+		{
+		}
+		"EverMatt"
+		{
+		}
+		"GermanPeter"
+		{
+		}
+		"MacD11"
+		{
+		}
+		"Marioiscool246"
+		{
+		}
+		"Sapphire Sky"
+		{
+		}
+	}
+	"special"
+	{
+		"Nicknine"
+		{
+			"other"
+			{
+				"English"		"For originally porting 2008 TF2 to the 2013 SDK"
+			}
+		}
+		"SaintSoftware"
+		{
+			"other"
+			{
+				"English"		"Compiling PF2C and making other changes"
+			}
+		}
+		"cheesecake"
+		{
+			"other"
+			{
+				"English"		"“master graphic design‟, made PF2C logo"
+			}
+		}
+		"Randizer"
+		{
+			"other"
+			{
+				"English"		"Made Valve intro video, used for PF2C"
+			}
+		}
+	}
+	"software"
+	{
+		"Momentum Mod"
+		{
+		}
+		"Open Fortress"
+		{
+		}
+		"Team Fortress 2 Classic"
+		{
+		}
+	}
+}	

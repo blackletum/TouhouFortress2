@@ -1,0 +1,26 @@
+map_ents
+{
+	ctf_2fort
+	{
+		"item_armor"
+		{
+			"origin"	"-668 -2600 -190"
+			"angles"	"0 90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"668 2600 -190"
+			"angles"	"0 -90 0"
+		}
+		"item_armor"
+		{
+			"origin"	"-640 1440 -119"
+			"angles"	"0 0 0"
+		}
+		"item_armor"
+		{
+			"origin"	"640 -1440 -119"
+			"angles"	"0 0 0"
+		}
+	}
+}
