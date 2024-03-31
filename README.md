@@ -2,6 +2,9 @@
 
 ![logo](https://i.imgur.com/m06oRwx.png)
 
+Video here:
+https://www.youtube.com/watch?v=UWzxuJl49GI
+
 # Touhou Fortress 2
 ## omg it real
 
