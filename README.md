@@ -70,12 +70,21 @@ If you want to no longer see the intro videos, just add “-novid” to your lau
 # Special Thanks
 
 “PF2 0.6 Team” - For making this code open sourced originally
+
 “Loyalists” [gamebanana] - Without all his models this would've never come together
+
 “Mr. Kit” & “LiamTouhou” - [gamebanana] Touhou Fortress 2 Reupload. Kit and his team put together the original ThF files and Liam preserved it on Gamebanana.
+
 “hth57” [moddb] - Touhou Fortress 2 1.0007 English Version pack
+
 “Mugi cool” [YouTube] - Bad Apple 4k
+
 “Rina-chan” Utsuho-Soldier Voicepack [Touhou 2010]
+
 “Midian-P” [deviantart] - Full name logo 
+
 “Pants” [shrinemaiden.org] - Partial Icon
+
 “Aregularhuman” [gamebanana] - Gohei weapon (world) model
+
 Anyone else unfortunately not credited that I was not aware of or forgot!
