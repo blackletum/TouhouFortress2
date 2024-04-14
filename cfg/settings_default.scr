@@ -52,7 +52,7 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Valve_Hostname"
 		{ STRING }
-		{ "Pre-Fortress 2" }
+		{ "Touhou Fortress 2" }
 	}
 
 	"maxplayers"
